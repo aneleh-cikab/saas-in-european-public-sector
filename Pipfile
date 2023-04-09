@@ -18,6 +18,9 @@ charset-normalizer = "*"
 glob2 = "*"
 matplotlib = "*"
 seaborn = "*"
+statsmodels = "*"
+stats = "*"
+tableone = "*"
 
 [dev-packages]
 
