@@ -21,6 +21,7 @@ seaborn = "*"
 statsmodels = "*"
 stats = "*"
 tableone = "*"
+deep-translator = "*"
 
 [dev-packages]
 
