@@ -17,7 +17,7 @@ This repository contains full code used to scrape, parse, clean, and analyse the
 Raw data (app. 5 GB) can be downloaded from the following link: 
 https://aneleh-cikab.cloud/SaaS-in-EUps.tar.gz
 
-Parsed data and analysis outputs (app. 13 GB) can be downloaded from: XXX. This folder should be placed in the cloned repository as is, to ensure the code runs. 
+Parsed data and outputs (app. 13 GB) can be downloaded from: http://aneleh-cikab.cloud/SaaS-in-EUps-parsed.tar. This folder should be placed in the cloned repository as is, to ensure the code runs. 
 
 
 
