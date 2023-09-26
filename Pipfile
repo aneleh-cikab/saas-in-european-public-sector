@@ -22,6 +22,7 @@ statsmodels = "*"
 stats = "*"
 tableone = "*"
 deep-translator = "*"
+pywaffle = "*"
 
 [dev-packages]
 
